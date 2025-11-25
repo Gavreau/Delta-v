@@ -14,8 +14,8 @@
   - type: Psionic
   - type: PsionicallyInsulative
     allowsPsionicUsage: true
-  - type: ClothingGrantPsionicPower
-    power: MetapsionicPower
+  #- type: ClothingGrantPsionicPower remove temporarily
+  #  power: MetapsionicPower
   - type: GuideHelp
     guides:
     - Psionics
